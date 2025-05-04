@@ -1,6 +1,26 @@
 {
     "mods": [
-
+        {
+            "id": "lw_lazylib",
+            "name": "LazyLib",
+            "category": "[1000]前置",
+            "remark": "必备的实用功能前置库",
+            "links": "https://www.fossic.org/thread-1676-1-1.html http://fractalsoftworks.com/forum/index.php?topic=5444.0"
+        },
+        {
+            "id": "MagicLib",
+            "name": "MagicLib",
+            "category": "[998]前置",
+            "remark": "开源脚本和插件前置库",
+            "links": "https://www.fossic.org/thread-3753-1-1.html https://fractalsoftworks.com/forum/index.php?topic=25868.0"
+        }
+        {
+            "id": "shaderLib",
+            "name": "zz GraphicsLib",
+            "category": "[999]前置",
+            "remark": "图形前置库",
+            "links": "https://www.fossic.org/thread-14340-1-1.html https://fractalsoftworks.com/forum/index.php?topic=10982.0"
+        }
     ],
     "installation_options": {
         "use_id_for_folder_name": true,
