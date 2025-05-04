@@ -1,0 +1,9 @@
+{
+    "mods": [
+
+    ],
+    "installation_options": {
+        "use_id_for_folder_name": true,
+        "allow_edit_uninstalled": false
+    }
+}
