@@ -13,7 +13,7 @@
             "category": "[998]前置",
             "remark": "开源脚本和插件前置库",
             "links": "https://www.fossic.org/thread-3753-1-1.html https://fractalsoftworks.com/forum/index.php?topic=25868.0"
-        }
+        },
         {
             "id": "shaderLib",
             "name": "zz GraphicsLib",
